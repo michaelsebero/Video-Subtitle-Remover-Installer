@@ -1,7 +1,7 @@
 ## How to install
 
 ```
-curl -LO https://raw.githubusercontent.com/MichaelSebero/Video-Subtitle-Remover-Installer/main/installer.sh
+curl -LO https://raw.githubusercontent.com/michaelsebero/Video-Subtitle-Remover-Installer/main/installer.sh
 
 sh installer.sh
 ```
